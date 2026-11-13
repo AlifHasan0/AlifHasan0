@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gamer</title>
+</head>
+<body>
+    <table border="1">
+        <tr>
+            <th>Name</th>
+            <th>Roll</th>
+            <th>Dept</th>
+        </tr>
+        <tr>
+            <td>Alif</td>
+            <td>851172</td>
+            <td><select><option>Computer</option><option>Textail</option></select></td>
+        </tr>
+        <tr>
+            <td>Junayed</td>
+            <td>851176</td>
+            <td><select><option>Computer</option><option>Textail</option></select></td>
+        </tr>
+    </table>
+</body>
+</html>
